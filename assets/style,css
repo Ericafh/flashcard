@@ -1,5 +1,5 @@
 body {
-background-color: rgb(157, 205, 207);
+background-color: url('/bg-desktop.webp');
 font-family: Bai Jamjuree;
 }
 #container {
