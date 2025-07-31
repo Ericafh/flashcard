@@ -26,7 +26,7 @@ border-radius: 0.6rem;
 font-size: 1vw;
 }
 footer {
-   background-color: rgb(23, 131, 190);
+   background-color: rgb(70, 149, 192);
    color: white;
    bottom:0;
    position:fixed;
