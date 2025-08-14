@@ -1,22 +1,22 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
+    'Medicina Veterinária',
+    'O que faz um Medico Veterinário?',
     'O Python é uma linguagem de programação'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
+    'Medicina Veterinária',
+    'Como examinar um animal doente?',
     'A capital da França é Paris'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
+    'Medicina Veterinária',
+    'Qual é a função da Medicina Veterinária?',
     'Uma função é um bloco de código que executa alguma tarefa'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
+    'Medicina Veterinária',
+    'Como aprender novas praticas ou se aperfeiçoar?',
     'Oi em ingles é HI (RAI)'
 )
